@@ -1,13 +1,9 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-Created on Fri Apr 21 16:48:35 2017
-
 LDA: extract new indipendent variables that separates the most the classes 
 of the dependent variable.
 
-
-@author: Ilaria
 """
 
 
