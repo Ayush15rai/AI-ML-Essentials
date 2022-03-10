@@ -6,7 +6,6 @@ of the dependent variable.
 
 """
 
-
 # Data Preprocessing Template
 
 # Importing the libraries
