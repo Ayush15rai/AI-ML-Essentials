@@ -1,11 +1,9 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-Created on Sat Apr 22 10:54:42 2017
 
 Kernel PCA - used for non linear problems 
 
-@author: Ilaria
 """
 
 # Data Preprocessing Template
