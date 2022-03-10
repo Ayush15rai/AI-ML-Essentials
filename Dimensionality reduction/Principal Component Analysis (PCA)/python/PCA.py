@@ -1,7 +1,6 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-Created on Fri Apr 21 14:33:32 2017
 
 Principal Component Analysis - PCA
 
@@ -89,18 +88,3 @@ plt.title('PCA (test set)')
 plt.xlabel('PC1')
 plt.ylabel('PC2')
 plt.show()
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
