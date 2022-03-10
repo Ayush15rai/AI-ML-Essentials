@@ -8,7 +8,7 @@ Purpose is mainly to decrease the complexity of the model.
 It is to simplify the model while keeping relevance and performance
 Extract a number of independent variables 
 that explain a sufficient proportion of the variance (typically 60%).
-@author: Ilaria
+
 """
 
 # Data Preprocessing Template
